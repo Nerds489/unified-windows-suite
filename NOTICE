@@ -1,0 +1,40 @@
+Unified Windows Suite
+=====================
+
+A merger of two independently developed MIT-licensed projects. Both copyright
+notices are reproduced in LICENSE.
+
+--------------------------------------------------------------------------------
+Win11Debloat            Copyright (c) 2020 Raphire
+                        https://github.com/Raphire/Win11Debloat
+
+Provides the architectural base: the declarative Features.json catalogue, the
+registry tweak library (249 .reg files with 65 undo files and 91 sysprep
+variants), the appx and provisioned-package removal engine, offline user-hive
+targeting, structured registry backup and restore, the XAML interface, the
+localisation layer, and the Pester suite.
+--------------------------------------------------------------------------------
+Ultimate Windows Setup Toolkit
+                        Copyright (c) 2025-2026
+                        Network & Firewall Technicians / OffTrackMedia
+
+Provides the capabilities Win11Debloat has no equivalent for: the application
+installer across winget, Chocolatey and Scoop with a 167-app catalogue; the
+hardware profiler and performance-tier scoring; the driver manager with DISM
+export and pnputil restore; and the performance optimiser covering power plans,
+memory management, virtual memory, disk cleanup, startup programs and DNS.
+--------------------------------------------------------------------------------
+
+DELIBERATE OMISSION
+-------------------
+This suite contains no product-activation, licence-bypass or key-generation
+functionality.
+
+The Ultimate Windows Setup Toolkit shipped modules/Activator.psm1, which
+downloaded and executed a third-party activation script at run time, plus a
+duplicate implementation inside its debloat menu. Neither is present here, and
+neither is reimplemented under another name.
+
+Use a licence you own. Windows and Office licences are sold by Microsoft and by
+authorised resellers, and a retail licence can be moved to new hardware through
+the Microsoft account it is tied to.
