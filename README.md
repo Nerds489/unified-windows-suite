@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-4.0.0-blue?style=for-the-badge" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-4.0.1-blue?style=for-the-badge" alt="Version"/>
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"/>
   <img src="https://img.shields.io/badge/PowerShell-5.1-orange?style=for-the-badge" alt="PowerShell"/>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-purple?style=for-the-badge" alt="Platform"/>
@@ -247,6 +247,23 @@ Built on [Win11Debloat](https://github.com/Raphire/Win11Debloat) by Raphire, MIT
 The tweak engine, registry library, GUI, backup system and test suite are theirs.
 
 See [NOTICE](NOTICE) for the full attribution split.
+
+## Sponsor
+
+The unification work, the installer, the profiler and the docs are maintained by one
+person. If the suite saves you time, you can put something back:
+
+<p align="left">
+  <a href="https://github.com/sponsors/Nerds489"><img height="36" alt="Sponsor on GitHub" src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
+  <a href="https://liberapay.com/Nerds489/donate"><img height="36" alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
+  <a href="https://www.buymeacoffee.com/abbeyandlaf"><img height="36" alt="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png"></a>
+</p>
+
+All three reach the same person. Pick whichever one you already have an account with.
+
+The tweak engine, registry library, GUI, backup system and test suite come from
+[Win11Debloat](https://github.com/Raphire/Win11Debloat), and none of the above reaches
+Raphire. If you want to support that half, sponsor them directly.
 
 ---
 
