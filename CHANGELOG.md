@@ -5,6 +5,19 @@ All notable changes to Unified Windows Suite are documented here.
 Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/).
 This project follows [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [4.0.1] - 2026-09-23
+
+### Added
+
+- Sponsor links. `.github/FUNDING.yml` gains Liberapay and Buy Me a Coffee
+  beside the existing GitHub Sponsors entry, so all three render on the repo
+  header and on release pages, and the README gains a `Sponsor` section with
+  the same three as buttons.
+
+  The vendors ship their widgets as `<script>` tags. GitHub strips `<script>`
+  from rendered markdown, so the README uses the `<a>` + `<img>` form, which
+  is the one that displays.
+
 ## [4.0.0] - 2026-09-16
 
 The unified release. Merges Win11Debloat (Raphire, MIT) and Ultimate Windows
